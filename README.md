@@ -1,5 +1,6 @@
 # baby_git
 Playing around with GIT
+
 live in DANGERZONEEE
-Adding some LESS changes
+Adding some more changes
 this should screw things up
